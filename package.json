@@ -1,0 +1,28 @@
+{
+  "name": "staky",
+  "version": "1.0.0",
+  "description": "command cli for core-contracts/staking-pool smart contract at staking-pool-4.guildnet}",
+  "main": "staky",
+  "bin": {
+    "staky": "cli.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staking-pool-4.guildnet"
+  },
+  "keywords": [
+    "near",
+    "contract",
+    "cli",
+    "tool",
+    "core-contracts/staking-pool",
+    "staking-pool-4.guildnet"
+  ],
+  "author": "luciotato@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciotato/create-contract-cli/issues"
+  },
+  "homepage": "https://github.com/luciotato/create-contract-cli#readme"
+}
